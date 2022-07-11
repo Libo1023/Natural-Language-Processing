@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-Coursera Specialization affiliated with DeepLearning.AI
+Coursera Specialization affiliated with DeepLearning.AI  
